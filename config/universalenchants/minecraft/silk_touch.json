@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "industrialforegoing:infinity_drill",
+    "industrialforegoing:infinity_saw"
+  ],
+  "incompatible": [
+    "minecraft:luck_of_the_sea",
+    "minecraft:fortune",
+    "minecraft:looting"
+  ]
+}
